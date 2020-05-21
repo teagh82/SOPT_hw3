@@ -24,8 +24,8 @@ Hint) 아이디, 비밀번호, 이름, 이메일, 전화번호를 서버에 전�
 <img width="200" src="https://user-images.githubusercontent.com/59547069/82600620-25acfa80-9be9-11ea-87ff-8a2d69315f98.png">
 </div>
 
-패키지를 data, extension, fragment, login, main, network 총 5개 만들어 관리해주었다.
-data에는 login 기능과 메인페이지 기능에 사용되는 데이터 파일을 넣어주었고
-extension에는 확장함수를 넣어주었다.
-fragment는 Fragment 파일들을 관리하고 login은 회원가입과 로그인 기능을 하는 파일을 포함한다.
-main은 메인 화면 구성에 필요한 파일들이 있으며 network에는 로그인, 회원가입을 위해 서버와 연결하는 파일이 들어있다. 
+패키지를 data, extension, fragment, login, main, network 총 5개 만들어 관리해주었다.</br>
+data에는 login 기능과 메인페이지 기능에 사용되는 데이터 파일을 넣어주었고</br>
+extension에는 확장함수를 넣어주었다.</br>
+fragment는 Fragment 파일들을 관리하고 login은 회원가입과 로그인 기능을 하는 파일을 포함한다.</br>
+main은 메인 화면 구성에 필요한 파일들이 있으며 network에는 로그인, 회원가입을 위해 서버와 연결하는 파일이 들어있다.</br> 
